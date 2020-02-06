@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MyCoursach"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid OpacityMask="#FFB05353">
+    <Grid OpacityMask="#FFB05353" Visibility="Collapsed">
         
     </Grid>
 </Window>
