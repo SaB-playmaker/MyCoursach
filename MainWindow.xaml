@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800" Opacity="0.9">
    
 
-    <Grid>
+    <Grid Background="#FF6C2828">
         <Button Content="lalal" Margin="50"/>
     </Grid>
 </Window>
